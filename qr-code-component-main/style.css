@@ -1,0 +1,38 @@
+body {
+    background-color: #D6E1F0;
+}
+
+.container1 {
+    margin-top: 10%;
+}
+.container {
+    width: clamp(250px, 20%, 700px);
+    margin: auto;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 8px 8px 1px black;
+}
+.img {
+    border-radius: 17px;
+    text-align: center;
+    padding: 8px;
+}
+.improve {
+    text-align: center;
+    font: Bold 20px Arial;
+    color: #1A2946;
+    margin: 15px;
+    margin-top: -2px;
+}
+.scar {
+    text-align: center;
+    font: normal 15px Arial;
+    color: #A4AAB6;
+    margin: 18px;
+}
+.text {
+    padding: 5px;
+}
+footer {
+    padding: 50px;
+}
